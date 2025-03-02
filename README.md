@@ -1,5 +1,5 @@
 # 3PA3-Project
-created by @merreeves, @, and @
+created by [Meredith Reeves](https://github.com/merreeves), 
 
 ## Quiz Questions
 
